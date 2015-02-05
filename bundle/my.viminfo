@@ -1,0 +1,222 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~Msle0~/\<export\>
+
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:e ~/main.cpp
+:qall
+:PluginInstall
+:q
+:wq
+:man
+:ew
+:bd
+:!
+:q!
+:wq!
+:wq1
+:YcmRestartServer
+:e main.cpp
+:help cc
+:echo has('signs')
+:echo has('sign')
+:tabnew.
+:e
+:w
+
+# 查找字符串 历史记录 (从新到旧)：
+? \<export\>
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	CHAR	0
+		cout<<vec[0]<<endl;
+	
+""1	LINE	0
+	using namespace std;
+"2	LINE	0
+	
+"3	LINE	0
+	    vector<int> vec;
+	    vec.push_back(1);
+"4	LINE	0
+	    vector<int> vec;
+	    vec.push_back(1);
+"5	LINE	0
+	   f 
+"6	LINE	0
+	    fo<F11>`
+"7	LINE	0
+	    fork
+"8	LINE	0
+		cout<<vec[0]<<endl;	cout<<vec[0]<<endl;
+"9	LINE	0
+		cout<<vec[0]<<endl;	cout<<vec[0]<<endl;
+"-	CHAR	0
+	#
+
+# 文件标记:
+'0  6  0  ~/main.cpp
+'1  24  0  ~/.vim/bundle/[Vundle] Installer
+'2  1  0  ~/main.cpp
+'3  22  0  ~/main.cpp
+'4  22  0  /usr/share/vim/vim74/colors/[Vundle] Installer
+'5  8  7  ~/main.cpp
+'6  24  0  ~/main.cpp
+'7  10  0  ~/main.cpp
+'8  23  0  ~/main.cpp
+'9  12  0  ~/main.cpp
+
+# 跳转列表 (从新到旧):
+-'  6  0  ~/main.cpp
+-'  1  0  ~/main.cpp
+-'  24  0  ~/.vim/bundle/[Vundle] Installer
+-'  22  0  ~/main.cpp
+-'  22  0  /usr/share/vim/vim74/colors/[Vundle] Installer
+-'  8  7  ~/main.cpp
+-'  1  0  /usr/include/unistd.h
+-'  24  0  ~/main.cpp
+-'  10  0  ~/main.cpp
+-'  23  0  ~/main.cpp
+-'  12  0  ~/main.cpp
+-'  20  11  ~/main.cpp
+-'  2  0  ~/main.cpp
+-'  20  0  ~/[Vundle] Installer
+-'  19  0  ~/.vim/bundle/YouCompleteMe/[Vundle] Installer
+-'  1  0  /tmp/vl2p8wC/17
+-'  37  0  ~/.vim/bundle/YouCompleteMe/[Vundle] Installer
+-'  1  1  /tmp/vZRQdZY/17
+-'  55  0  ~/.vim/bundle/YouCompleteMe/[Vundle] Installer
+-'  72  0  ~/.vim/bundle/YouCompleteMe/[Vundle] Installer
+-'  20  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  26  0  ~/.profile
+-'  1  0  ~/.profile
+-'  27  0  ~/.profile
+-'  4  0  /usr/local/include/opencv2/opencv.hpp
+-'  5  25  ~/main.cpp
+-'  3  11  ~/main.cpp
+-'  1  0  ~/map
+-'  1  0  ~/.vim/bundle/STL-Syntax/ma
+-'  5371  55  /usr/share/vim/vim74/doc/options.txt
+-'  1  0  /usr/share/vim/vim74/doc/options.txt
+-'  45  0  ~/[Vundle] Installer
+-'  66  0  ~/[Vundle] Installer
+-'  120  0  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  30  0  ~/2.txt
+-'  1  0  ~/2.txt
+-'  1  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  6  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  1  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  6  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  30  0  ~/2.txt
+-'  1  0  ~/2.txt
+-'  1  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  6  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  1  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  6  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  30  0  ~/2.txt
+-'  1  0  ~/2.txt
+-'  1  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  6  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  1  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  6  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  30  0  ~/2.txt
+-'  1  0  ~/2.txt
+-'  1  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  6  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  1  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  6  0  ~/1.txt
+-'  17  0  ~/.nvidia-settings-rc
+-'  1  0  ~/.nvidia-settings-rc
+-'  120  0  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  30  0  ~/2.txt
+-'  1  0  ~/2.txt
+-'  1  0  ~/1.txt
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/main.cpp
+	"	6	0
+	^	12	0
+	.	5	0
+	+	22	0
+	+	22	0
+	+	5	22
+	+	22	14
+	+	5	27
+	+	5	13
+	+	5	13
+	+	22	4
+	+	5	28
+	+	5	0
+	+	22	0
+	+	20	19
+	+	4	13
+	+	20	20
+	+	66	0
+	+	10	0
+	+	18	0
+	+	20	0
+	+	19	3
+	+	17	4
+	+	16	4
+	+	14	4
+	+	1	18
+	+	14	0
+	+	16	0
+	+	17	0
+	+	13	4
+	+	64	0
+	+	12	0
+	+	10	0
+	+	8	0
+	+	5	0
