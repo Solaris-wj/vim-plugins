@@ -462,7 +462,7 @@ let g:ophigh_color_gui = "#F6FF00"
 
 
 """""""ctags 命令
-"ctags -R --languages=c++ --langmap=c++:+.inl -h +.inl --c++-kinds=+px --fields=+aiKSz --extra=+q --exclude=lex.yy.cc --exclude=copy_lex.yy.cc
+"sudo ctags -R --languages=c++ --langmap=c++:+.inl -h +.inl --c++-kinds=+px --fields=+aiKSz --extra=+q --exclude=lex.yy.cc --exclude=copy_lex.yy.cc
 
 :set tags +=./tags,/usr/include/tags,/usr/local/include/tags
 "自动更新ctags
